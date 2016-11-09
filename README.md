@@ -6,11 +6,11 @@ Extension for visual studio code, exposes commands to copy workspace relative pa
 
 Exposes two commands, accessible by command palette ("Files: Copy..."), no keybindings but define them as you want:
 
-### relative-path-and-line.copyRelativePath
+* relative-path-and-line.copyRelativePath
 
 Copies the workspace relative path of current active file to the clipboard.
 
-### relative-path-and-line.copyRelativePathAndLine
+* relative-path-and-line.copyRelativePathAndLine
 
 Copies the workspace relative path of current active file and cursor line number separated by colon to the clipboard.
 
